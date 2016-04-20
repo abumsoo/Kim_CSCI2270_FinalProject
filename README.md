@@ -1,10 +1,13 @@
 # Kim_CSCI2270_FinalProject
-<h1> how about here  </h1>
 
 You should probably read this.
 
 This project is going to...
-Use one or two of the data structures that were covered in class.
-It will gather some data about something from some place and
-organize that data into a data structure in order to do something
-with it. 
+Take information about the characters from the videogame, Super Smash Bros. 4
+and organize the data into one or two data structures. It will store information
+about the character's background as well as their moves. It will have the name
+of the moves and how to execute them. The user will be able to look through the
+data structure to find a specific character's information including the moves
+and his/her background info. This will be done by dumping all the information
+into a text file and then parse through it to extract all the pieces of data
+which I will actually use to create the Binary Search Tree.
