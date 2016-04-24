@@ -1,66 +1,65 @@
-Bayonetta				BayonettaHeadSSB4-U.png	BayonettaSymbol.svgBayonetta
-Bowser	(Intended)[1]	BowserHeadSSBM.png	BowserHeadSSBB.png	BowserHeadSSB4-U.png	MarioSymbol.svgMario
-Bowser Jr.				BowserJrHeadSSB4-U.png	MarioSymbol.svgMario
-Captain Falcon	CaptainFalconHeadSSB.png	CaptainFalconHeadSSBM.png	CaptainFalconHeadSSBB.png	CaptainFalconHeadSSB4-U.png	FZeroSymbol.svgF-Zero
-Charizard			CharizardHeadSSBB.png[2]	CharizardHeadSSB4-U.png	PokemonSymbol.svgPokémon
-Cloud				CloudHeadSSB4-U.png	FinalFantasySymbol.svgFinal Fantasy
-Corrin				CorrinHeadSSB4-U.png	FireEmblemSymbol.svgFire Emblem
-Dark Pit				DarkPitHeadSSB4-U.png	KidIcarusSymbol.svgKid Icarus
-Diddy Kong			DiddyKongHeadSSBB.png	DiddyKongHeadSSB4-U.png	DKSymbol.svgDonkey Kong
-Donkey Kong	DonkeyKongHeadSSB.png	DonkeyKongHeadSSBM.png	DonkeyKongHeadSSBB.png	DonkeyKongHeadSSB4-U.png	DKSymbol.svgDonkey Kong
-Dr. Mario		DrMarioHeadSSBM.png	(Intended)[3]	DrMarioHeadSSB4-U.png	MarioSymbol.svgMario
-Duck Hunt				DuckHuntHeadSSB4-U.png	DuckHuntSymbol.svgDuck Hunt
-Falco		FalcoHeadSSBM.png	FalcoHeadSSBB.png	FalcoHeadSSB4-U.png	StarFoxSymbol.svgStar Fox
-Fox	FoxHeadSSB.png	FoxHeadSSBM.png	FoxHeadSSBB.png	FoxHeadSSB4-U.png	StarFoxSymbol.svgStar Fox
-Ganondorf		GanondorfHeadSSBM.png	GanondorfHeadSSBB.png	GanondorfHeadSSB4-U.png	ZeldaSymbol.svgThe Legend of Zelda
-Greninja				GreninjaHeadSSB4-U.png	PokemonSymbol.svgPokémon
-Ice Climbers		IceClimbersHeadSSBM.png	IceClimbersHeadSSBB.png	(Intended)[4]	IceClimbersSymbol.svgIce Climber
-Ike			IkeHeadSSBB.png	IkeHeadSSB4-U.png	FireEmblemSymbol.svgFire Emblem
-Ivysaur			IvysaurHeadSSBB.png[2]		PokemonSymbol.svgPokémon
-Jigglypuff	JigglypuffHeadSSB.png	JigglypuffHeadSSBM.png	JigglypuffHeadSSBB.png	JigglypuffHeadSSB4-U.png	PokemonSymbol.svgPokémon
-King Dedede	(Intended)[1]		KingDededeHeadSSBB.png	KingDededeHeadSSB4-U.png	KirbySymbol.svgKirby
-Kirby	KirbyHeadSSB.png	KirbyHeadSSBM.png	KirbyHeadSSBB.png	KirbyHeadSSB4-U.png	KirbySymbol.svgKirby
-Link	LinkHeadSSB.png	LinkHeadSSBM.png	LinkHeadSSBB.png	LinkHeadSSB4-U.png	ZeldaSymbol.svgThe Legend of Zelda
-Little Mac				LittleMacHeadSSB4-U.png	PunchOutSymbol.svgPunch-Out!!
-Lucario			LucarioHeadSSBB.png	LucarioHeadSSB4-U.png	PokemonSymbol.svgPokémon
-Lucas		(Intended)[5]	LucasHeadSSBB.png	LucasHeadSSB4-U.png	EarthboundSymbol.svgEarthBound
-Lucina				LucinaHeadSSB4-U.png	FireEmblemSymbol.svgFire Emblem
-Luigi	LuigiHeadSSB.png	LuigiHeadSSBM.png	LuigiHeadSSBB.png	LuigiHeadSSB4-U.png	MarioSymbol.svgMario
-Mario	MarioHeadSSB.png	MarioHeadSSBM.png	MarioHeadSSBB.png	MarioHeadSSB4-U.png	MarioSymbol.svgMario
-Marth	(Intended)[6]	MarthHeadSSBM.png	MarthHeadSSBB.png	MarthHeadSSB4-U.png	FireEmblemSymbol.svgFire Emblem
-Mega Man				MegaManHeadSSB4-U.png	MegaManSymbol.svgMega Man
-Meta Knight			MetaKnightHeadSSBB.png	MetaKnightHeadSSB4-U.png	KirbySymbol.svgKirby
-Mewtwo	(Intended)[1]	MewtwoHeadSSBM.png	(Intended)[3]	MewtwoHeadSSB4-U.png	PokemonSymbol.svgPokémon
-Mii Brawler				MiiBrawlerHeadSSB4-U.png	SmashBrosSymbol.svgSuper Smash Bros.
-Mii Gunner				MiiGunnerHeadSSB4-U.png	SmashBrosSymbol.svgSuper Smash Bros.
-Mii Swordfighter				MiiSwordfighterHeadSSB4-U.png	SmashBrosSymbol.svgSuper Smash Bros.
-Mr. Game & Watch		MrGame&WatchHeadSSBM.png	MrGame&WatchHeadSSBB.png	MrGame&WatchHeadSSB4-U.png	Game&WatchSymbol.svgGame & Watch
-Ness	NessHeadSSB.png	NessHeadSSBM.png	NessHeadSSBB.png	NessHeadSSB4-U.png	EarthboundSymbol.svgEarthBound
-Olimar			OlimarHeadSSBB.png	OlimarHeadSSB4-U.png	PikminSymbol.svgPikmin
-Pac-Man				Pac-ManHeadSSB4-U.png	PacManSymbol.svgPac-Man
-at lutena				PalutenaHeadSSB4-U.png	KidIcarusSymbol.svgKid Icarus
-Peach		PeachHeadSSBM.png	PeachHeadSSBB.png	PeachHeadSSB4-U.png	MarioSymbol.svgMario
-Pichu		PichuHeadSSBM.png			PokemonSymbol.svgPokémon
-Pikachu	PikachuHeadSSB.png	PikachuHeadSSBM.png	PikachuHeadSSBB.png	PikachuHeadSSB4-U.png	PokemonSymbol.svgPokémon
-Pit			PitHeadSSBB.png	PitHeadSSB4-U.png	KidIcarusSymbol.svgKid Icarus
-pokemon Trainer			PokémonTrainerHeadSSBB.png		PokemonSymbol.svgPokémon
-ROB			ROBHeadSSBB.png	ROBHeadSSB4-U.png	ROBSymbol.svgROB
-Robin				RobinHeadSSB4-U.png	FireEmblemSymbol.svgFire Emblem
-Rosalina				Rosalina&LumaHeadSSB4-U.png	MarioSymbol.svgMario
-Roy		RoyHeadSSBM.png	(Intended)[3]	RoyHeadSSB4-U.png	FireEmblemSymbol.svgFire Emblem
-Ryu				RyuHeadSSB4-U.png	StreetFighterSymbol.svgStreet Fighter
-Samus	SamusHeadSSB.png	SamusHeadSSBM.png	SamusHeadSSBB.png	SamusHeadSSB4-U.png	MetroidSymbol.svgMetroid
-Sheik		SheikHeadSSBM.png	SheikHeadSSBB.png	SheikHeadSSB4-U.png	ZeldaSymbol.svgThe Legend of Zelda
-Fee				ShulkHeadSSB4-U.png	XenobladeSymbol.svgXenoblade
-Snake			SnakeHeadSSBB.png		MetalGearSymbol.svgMetal Gear
-Sonic		(Intended)[7]	SonicHeadSSBB.png	SonicHeadSSB4-U.png	SonicSymbol.svgSonic
-Squirtle			SquirtleHeadSSBB.png[2]		PokemonSymbol.svgPokémon
-Toon Link			ToonLinkHeadSSBB.png	ToonLinkHeadSSB4-U.png	ZeldaSymbol.svgThe Legend of Zelda
-Villager				VillagerHeadSSB4-U.png	AnimalCrossingSymbol.svgAnimal Crossing
-Wario			WarioHeadSSBB.png	WarioHeadSSB4-U.png	WarioSymbol.svgWario
-Wii Fit Trainer				WiiFitTrainerHeadSSB4-U.png	WiiFitSymbol.svgWii Fit
-Wolf			WolfHeadSSBB.png		StarFoxSymbol.svgStar Fox
-Yoshi	YoshiHeadSSB.png	YoshiHeadSSBM.png	YoshiHeadSSBB.png	YoshiHeadSSB4-U.png	YoshiSymbol.svgYoshi
-Young Link		YoungLinkHeadSSBM.png			ZeldaSymbol.svgThe Legend of Zelda
-Zelda		ZeldaHeadSSBM.png	ZeldaHeadSSBB.png	ZeldaHeadSSB4-U.png	ZeldaSymbol.svgThe Legend of Zelda
-Zero Suit Samus			ZeroSuitSamusHeadSSBB.png	ZeroSuitSamusHeadSSB4-U.png	MetroidSymbol.svgMetroid
+Bayonetta	
+Bowser	
+Bowser Jr.
+Captain Falcon	
+Charizard
+Cloud	
+Corrin	
+Dark Pit	
+Diddy Kong	
+Donkey Kong	
+Dr. Mario	
+Duck Hunt
+Falco	
+Fox	
+Ganondorf	
+Greninja	
+Ice Climbers	
+Ike	
+Ivysaur
+Jigglypuff	
+King Dedede	
+Kirby	
+Link	
+Little Mac	
+Lucario	
+Lucas
+Lucina	
+Luigi	
+Mario	
+Marth	
+Mega Man	
+Meta Knight	
+Mewtwo
+Mii Brawler
+Mii Swordfighter
+Mii Gunner
+Mr. Game & Watch	
+Ness	
+Olimar
+Pac-Man	
+Palutena	
+Peach	
+Pichu	
+Pikachu	
+Pit	
+R.O.B.	
+Robin	
+Rosalina & Luma	
+Roy
+Ryu	
+Samus	
+Sheik
+Shulk	
+Snake	
+Sonic	
+Squirtle
+Toon Link	
+Villager	
+Wario	
+Wii Fit Trainer	
+Wolf	
+Yoshi	
+Young Link	
+Zelda	
+Zero Suit Samus

@@ -1,0 +1,6 @@
+# Parsing characters.txt file to get just the characters
+# characters.txt.backup shows the original text
+# Probably not the most elegant solution... but it works
+sed -i "s/No.\+//" characters.txt
+sed -i "s/Yes.\+//" characters.txt
+sed -i "s/\[.*//" characters.txt
