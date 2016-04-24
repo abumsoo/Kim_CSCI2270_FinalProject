@@ -1,0 +1,489 @@
+    .move_header
+    {
+        background-image: url('http://media.eventhubs.com/images/moves_database/bg_movesheader.png');
+        background-repeat: y;
+        border: solid 1px #8c8c8c;
+        border-radius: 30px;
+        margin-top: 11px;
+        margin-bottom:22px;
+    }
+    
+    .update_date{
+        float: left;
+        top: 18px;
+        height: 20px;
+        position: relative;
+        color: #3f3f3f;
+        font-size:12px;
+        
+    }
+    
+    .vdivide{
+        float: left;
+        top: 16px;
+        height: 20px;
+        position: relative;
+        margin-right: 10px;
+        padding-right: 15px;
+        border-right: 1px gray solid;
+        font-size:10px;
+        color:darkgrey;
+        
+    }
+    .meta_info{
+        padding-left:10px;
+    }
+    
+    table.charPropTable {
+        border-collapse:collapse;
+        width:100%;
+        
+    }
+    table.charPropTable tr{
+        border-top: 1px solid #939393;
+        height: 40px;
+        font-size: 15px;
+    }
+    table.charPropTable tr:last-of-type{
+        
+    }
+    
+    table.charPropTable td{
+        text-align:center;
+    }
+    
+    table.charPropTable td:first-of-type{
+        border-right: 1px solid #939393;
+        
+    }
+    
+    table.charPropTable td:last-of-type{
+        border-left: 1px solid #939393;
+    }
+    
+    .moveType_container{
+        background-image: url('http://media.eventhubs.com/images/moves_database/bg_moves.png');
+        background-repeat: y;
+        border: solid 1px #8c8c8c;
+        width: 315px;
+        border-radius: 30px;
+        margin-right:5px;
+        margin-left:5px;
+        margin-bottom: 22px;
+        float:left;
+     }
+     
+     
+     .moveheadertext {
+         font-size: 18px;
+         padding-left: 15px;
+         font-family: Arial, Helvetica, sans-serif;
+         font-weight: normal;
+     }
+
+      .moveMotion_container {
+      float: left;
+      margin-top: 20px;
+}
+
+      .moveMotion {
+      float: left;
+      width: 230px;
+      margin-top: 16px;
+      margin-left:4px;
+}
+
+     .vote_container{
+        background-image: url('http://media.eventhubs.com/images/moves_database/bg_movevote.png');
+        background-repeat: y;
+        border: solid 1px #b9b9b9;
+        width: 653px;
+        border-radius: 30px;
+        margin-bottom: 22px;
+        float: left;
+        box-shadow: 0px 1px 1px 0px #888888;
+}
+
+      .voteMove_container {
+      float: left;
+      border-radius: 30px;
+      box-shadow: 1px 1px 1px 0px #888888;
+      margin-right: 3px;
+}
+
+      .voteMove {
+      width: 232px;
+      float: left;
+      min-height: 65px;
+      padding-top: 10px;
+      text-align: center;
+}
+     
+     .moveType_container span{
+         padding-left:8px;
+     }
+     
+     .moveType_containerViewallmoves span{
+         padding-left:8px;
+     }
+     
+     .moveType_container .move {
+         float: left;
+         border-bottom: solid 1px #8c8c8c;
+     }
+     
+     .moveType_containerViewallmoves .move {
+         float: left;
+         border-bottom: solid 1px #8c8c8c;
+     }
+
+     .moveType_container .cmove {
+         float: left;
+         border-bottom: solid 1px #8c8c8c;
+         display: none;
+     }
+     
+     .moveType_containerViewallmoves .cmove {
+         float: left;
+         border-bottom: solid 1px #8c8c8c;
+         display: none;
+     }
+     
+     .moveType_container .move.last{
+         border-bottom:none;
+     }
+     
+     .moveType_containerViewallmoves .move.last{
+         border-bottom:none;
+     }
+
+     .moveType_container .cmove.last{
+         border-bottom:none;
+         display: none;
+     }
+     
+     .moveType_containerViewallmoves .cmove.last{
+         border-bottom:none;
+         display: none;
+     }
+     
+     .right{
+         float:right;
+     }
+     
+     .moveType_container h3{
+     	margin-top:14px;
+     	margin-bottom:0px;
+     }
+     
+     .moveType_containerViewallmoves h3{
+        margin-top:14px;
+        margin-bottom:0px;
+     }
+     
+     .moveRatings_box {
+         background-image: url('http://media.eventhubs.com/images/moves_database/bg_movesratingstips.png');
+         background-repeat: y;     
+         float: right;
+         width: 78px;
+         border: solid 1px #8c8c8c;
+         text-align: center;
+         border-top-left-radius: 30px;
+         border-bottom-right-radius: 30px;
+         padding-top: 9px;
+         padding-bottom: 9px;
+         margin-left: 1px;
+}
+     
+     #move_controls{
+        height: 56px;
+        background-image: url('http://media.eventhubs.com/images/moves_database/bg_movecontrols.png');
+        background-repeat: y;
+        border: solid 1px #8c8c8c;
+        border-radius:30px;
+        width: 388px;
+        margin: 0 auto;
+     
+     }
+     
+     #move_controls .move_control_container{
+         float:left;
+         width:33%;
+         text-align:center;
+         height:100%;
+         margin-bottom:30px;
+         cursor:pointer;
+         
+     }
+     
+     .move_tabs{
+        background-color: #afafaf;
+        width:49%;
+        height: 70px;
+        margin-left: 0px;
+        text-align:center;	
+     }
+     
+     
+     .move_tabs.first {
+     	
+         border-top-left-radius: 30px;
+         border-bottom-left-radius: 30px;
+         float:left;
+         
+     }
+     
+     .move_tabs.last {
+     	/* border-left: 1px solid #7c7c7c; */
+     	border-top-right-radius: 30px;
+		border-bottom-right-radius: 30px;
+         float:right
+      }
+     
+      #move_controls .move_control_container.first{
+         border-right: 1px solid #8c8c8c;
+     }
+     
+      #move_controls .move_control_container.last{
+         border-left: 1px solid #8c8c8c;
+     }
+
+     .move_control_icons {
+        float: left;
+        margin-top: 6px;
+        margin-left: 3px;
+}          
+
+     .move_control_text {
+        margin-top: 12px;
+        width: 120px;
+	}          
+	
+	.move_control_text a:link{
+		color:#111111;
+	}
+
+     a.control_text:link, a.control_text:visited {
+        color: #111111;
+}
+
+     a.tipBox_text:link, a.tipBox_text:visited {
+        color: #111111;
+        font-size: 15px;
+}
+
+     a.move_text:link, a.move_text:visited {
+        color: #3f3f3f;
+        font-size: 15px;
+}
+     
+     #comment_controls{
+        height: 29px;
+        color: white;
+        font-size: 16px;
+        width: 100%;
+        margin:0 auto;
+        padding-bottom: 25px;
+        margin-top: 3px;
+        margin-bottom: 13px;
+     }
+     
+     
+     #comment_controls .move_control_container{
+         float: left;
+         width: 211px;
+         text-align: center;
+         height: 100%;
+         background-color: #afafaf;
+         border: solid 1px #7c7c7c;
+         margin-left: 15px;
+         padding-top: 13px;
+         box-shadow: 0px 1px 1px 0px #888888;
+         cursor: pointer;
+     }
+     
+      #comment_controls .move_control_container.first{
+         border-right: 1px solid #7c7c7c;
+         width: 201px;
+         border-top-left-radius: 30px;
+         border-bottom-left-radius: 30px;
+         margin-left: 2px;
+     }
+     
+      #comment_controls .move_control_container.last{
+         border-left:1px solid #7c7c7c;
+         width:201px;
+         float:right;
+         margin-right:2px;
+         border-top-right-radius:30px;
+         border-bottom-right-radius:30px;
+     }
+     
+     #comment_controls .active {
+         background-color:#375683;
+         display:block;
+     }
+     
+     
+    .input{
+        /*float:left;*/
+        display:inline;
+    }
+    
+    .button {
+    	top: -4px;
+    	position:relative;
+    }
+      .tip_holder{
+         width: 653px;
+         float: left;
+         background-image: url(http://media.eventhubs.com/images/moves_database/bg_tipsholder.png);
+         background-repeat: repeat-y;    
+         -moz-border-radius: 30px;
+         -webkit-border-radius: 30px;
+         border-radius: 30px;       
+         border: 1px solid #bababa;
+         box-shadow: 1px 2px 8px 0px rgba(136, 136, 136, 0.75);
+         padding-bottom: 25px;
+         padding-top: 16px;
+         margin-bottom: 20px;
+         position:relative;
+         margin-top:10px;
+         
+}    
+    
+    .move_holder{
+        width: 423px;
+         float: left;
+         background-image: url(http://media.eventhubs.com/images/moves_database/bg_parentmove.png);
+         background-repeat: repeat-x;    
+         -moz-border-radius: 30px 0px 0px 0px;
+         -webkit-border-radius: 30px 0px 0px 0px;
+         border-radius: 30px 0px 0px 30px;  
+         border-right: 0px;
+         border-left: 1px;
+         border-top: 1px;
+         border-bottom: 1px;
+         border-style: solid;
+         border-color: #8c8c8c;
+         box-shadow: 1px 1px 1px 0px #888888;
+         padding-left:10px;
+         padding-top:10px;
+         margin-bottom: 4px;
+         min-height: 102px;
+         display: block;
+    }
+    
+    
+    
+    .property_holder{
+        width: 201px;
+        float: left;
+        background-image: url(http://media.eventhubs.com/images/moves_database/bg_propertymove.png);
+         background-repeat: repeat-x;    
+        -moz-border-radius: 0px 30px 30px 0px;
+         -webkit-border-radius: 0px 30px 30px 0px;
+         border-radius: 0px 30px 30px 0px;  
+         border-right: 1px;
+         border-left: 1px;
+         border-top: 1px;
+         border-bottom: 1px;
+         border-style: solid;
+         border-color: #8c8c8c;
+         box-shadow: 1px 1px 1px 0px #888888;
+         padding-left:10px;
+         padding-top: 4px;
+         margin-bottom: 4px;
+         min-height: 108px;
+         text-align: center;
+    }
+    
+    .follow_move_holder{
+        width: 360px;
+        margin-left:63px;
+         float: left;
+         background-color: #e6e6e6;
+         -moz-border-radius: 30px 0px 0px 0px;
+         -webkit-border-radius: 30px 0px 0px 0px;
+         border-radius: 30px 0px 0px 30px;  
+         border-right: 0px;
+         border-left: 1px;
+         border-top: 1px;
+         border-bottom: 1px;
+         border-style: solid;
+         border-color: #8c8c8c;
+         padding-left:10px;
+         padding-top: 10px;
+         margin-bottom: 4px;
+         min-height: 102px;
+    }
+    
+    .followup_property_holder{
+        width: 201px;
+        float: left;
+        background-color: #dee0e5;
+        -moz-border-radius: 0px 30px 30px 0px;
+         -webkit-border-radius: 0px 30px 30px 0px;
+         border-radius: 0px 30px 30px 0px;  
+         border-right: 1px;
+         border-left: 1px;
+         border-top: 1px;
+         border-bottom: 1px;
+         border-style: solid;
+         border-color: #8c8c8c;
+         padding-left: 10px;
+         padding-top: 4px;
+         margin-bottom: 4px;
+         min-height: 108px;
+         text-align:center;
+    }
+
+     .follow_move_holder.last{
+         margin-bottom: 22px;
+     }
+    
+    #tips_helpful, #tips_unhelpful, #tips_unrated {display:none;}
+    #tips_pag div.active{display:block;}
+
+    
+    .viewallmoves {
+    float: left;
+    width: 320px;
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: #0564c6;
+}    
+
+/* 
+.moveMotion > .motion{
+	top: -9px;
+	position: relative;
+}
+*/
+    .proprating {
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 6px;
+}
+
+    .offtext {
+    font-size: 14px;
+    font-weight: normal;
+}
+
+.tip_info a:link, .tip_info a:visited{
+        color: #666666;
+        
+    }
+a.darklink:link, a.darklink:visited{
+    color:black;
+}
+
+
+@media only screen and (max-width: 767px) and (min-width: 540px) {
+.vote_container {
+    height:200px;
+}
+    
+}
