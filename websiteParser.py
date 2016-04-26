@@ -1,9 +1,9 @@
 from lxml import html
 import requests
 
-page = requests.get('http://www.eventhubs.com/moves/ssb4/')
+page = requests.get('http://www.ssbwiki.com/Category:Characters_(SSB4)')
 tree = html.fromstring(page.content)
-moves = tree.xpath('//span[@style="font-size:16px;padding-left:5px;"]/text()')
+moves = tree.xpath('//[@=""]/()')
 
 # print (page.json())
 
