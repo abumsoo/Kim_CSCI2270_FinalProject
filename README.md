@@ -1,6 +1,6 @@
-# Kim_CSCI2270_FinalProject
+# CSCI2270 Final Project
 
-You should probably read this.
+# Project Summary
 
 This project is going to...
 Take information about the characters from the videogame, Super Smash Bros. 4

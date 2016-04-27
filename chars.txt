@@ -1,0 +1,55 @@
+1,Bayonetta,Bayonetta
+2,Zero Suit Samus,Metroid
+3,Pikachu,Pokemon
+4,Rosalina,Mario
+5,Cloud,Final Fantasy VII
+6,Mario,Mario
+7,Sonic,Sonic the Hedgehog
+8,Sheik,The Legend of Zelda
+9,Ryu,Street Fighter
+10,Captain Falcon,F-Zero
+11,Corrin,Fire Emblem
+12,Fox,Star Fox
+13,Meta Knight,Kirby
+14,Ness,EarthBound
+15,Villager,Animal Crossing
+16,Diddy Kong,Donkey Kong
+17,Greninja,Pokemon
+18,Link,The Legend of Zelda
+19,Pit,Kid Icarus
+20,Yoshi,Yoshi
+21,Dark Pit,Kid Icarus
+22,Roy,Fire Emblem
+23,Marth,Fire Emblem
+24,Falco,Star Fox
+25,Mewtwo,Pokemon
+26,Toon Link,The Legend of Zelda
+27,Shulk,Xenoblade
+28,Lucas,EarthBound
+29,Lucario,Pokemon
+30,Luigi,Mario
+31,Kirby,Kirby
+32,R.O.B.,R.O.B.
+33,Lucina,Fire Emblem
+34,Peach,Mario
+35,Mega Man,Mega Man
+36,Ike,Fire Emblem
+37,Mr. Game and Watch,Game & Watch
+38,Samus,Metroid
+39,Pac-Man,Pac-Man
+40,Robin,Fire Emblem
+41,Dr. Mario,Mario
+42,Wario,Mario
+43,Donkey Kong,Donkey Kong
+44,Wii Fit Trainer,Wii Fit
+45,Zelda,The Legend of Zelda
+46,Olimar,Pikmin
+47,Duck Hunt,Duck Hunt
+48,Charizard,Pokemon
+49,Bowser,Mario
+50,Bowser Jr.,Mario
+51,King Dedede,Kirby
+52,Palutena,Kid Icarus
+53,Ganondorf,The Legend of Zelda
+54,Little Mac,Punch-Out!
+55,Jigglypuff,Pokemon
