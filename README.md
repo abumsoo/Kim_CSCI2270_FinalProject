@@ -27,13 +27,11 @@ Bum Soo Kim <br>
 Bum Soo Kim<br>
 Bum Soo Kim<br>
 Bum Soo Kim
-
 ## Contributors
 Bum Soo Kim<br>
 Bum Soo Kim<br>
 Bum Soo Kim<br>
 Bum Soo Kim
-
 # Open issues/bugs
 When running the program, if the user hits up on the arrow key or CTRL+[anything]
 and then hits Enter, the program will enter an infinite loop.
