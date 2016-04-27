@@ -1,13 +1,40 @@
 # CSCI2270 Final Project
 
-# Project Summary
+## Project Summary
+This program takes a collection of data about Super Smash Bros. for Wii U (or
+Super Smash Bros. 4) and puts the data inside of a Binary Search Tree. This
+data includes characters and their ranks, and the universe that they come from.
+The user is able to search for a character by a certain rank that they are
+looking for, or search for the rank of a character by the character's name.
+The Binary Search Tree is formed from data that is dumped into a text file that
+is organized by commas. The data was taken by parsing the HTML source of a
+website with the websiteParser.py script that is included in this repository.
 
-This project is going to...
-Take information about the characters from the videogame, Super Smash Bros. 4
-and organize the data into one or two data structures. It will store information
-about the character's background as well as their moves. It will have the name
-of the moves and how to execute them. The user will be able to look through the
-data structure to find a specific character's information including the moves
-and his/her background info. This will be done by dumping all the information
-into a text file and then parse through it to extract all the pieces of data
-which I will actually use to create the Binary Search Tree.
+## How to Run
+To compile this program run(in the command line or terminal):
+make
+To run it:
+./ssb4.o
+
+## Dependencies
+All you need is a c++ compiler that will compile with c++11
+
+## System Requirements
+Mac or Linux
+
+## Group Members
+Bum Soo Kim
+Bum Soo Kim
+Bum Soo Kim
+Bum Soo Kim
+
+## Contributors
+Bum Soo Kim
+Bum Soo Kim
+Bum Soo Kim
+Bum Soo Kim
+
+# Open issues/bugs
+When running the program, if the user hits up on the arrow key or CTRL+[anything]
+and then hits Enter, the program will enter an infinite loop.
+User input is case sensitive, so names must be capitalized.
