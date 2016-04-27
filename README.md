@@ -23,7 +23,7 @@ All you need is a c++ compiler that will compile with c++11
 Mac or Linux
 
 ## Group Members
-Bum Soo Kim <\br>
+Bum Soo Kim <br>
 Bum Soo Kim
 Bum Soo Kim
 Bum Soo Kim
