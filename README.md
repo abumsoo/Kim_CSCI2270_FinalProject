@@ -37,4 +37,5 @@ Bum Soo Kim
 # Open issues/bugs
 When running the program, if the user hits up on the arrow key or CTRL+[anything]
 and then hits Enter, the program will enter an infinite loop.
+
 User input is case sensitive, so names must be capitalized.
