@@ -24,14 +24,14 @@ Mac or Linux
 
 ## Group Members
 Bum Soo Kim <br>
-Bum Soo Kim
-Bum Soo Kim
+Bum Soo Kim<br>
+Bum Soo Kim<br>
 Bum Soo Kim
 
 ## Contributors
-Bum Soo Kim
-Bum Soo Kim
-Bum Soo Kim
+Bum Soo Kim<br>
+Bum Soo Kim<br>
+Bum Soo Kim<br>
 Bum Soo Kim
 
 # Open issues/bugs
