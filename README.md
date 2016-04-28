@@ -11,6 +11,14 @@ is organized by commas. The data was taken by parsing the HTML source of a
 website with the websiteParser.py script that is included in this repository.
 
 ## How to Run
+Open terminal and clone my git repository into preferred directory
+```
+git clone http://github.com/bumshakabum/Kim_CSCI2270_FinalProject.git
+```
+Navigate into the cloned repo
+```
+cd Kim_CSCI2270_FinalProject
+```
 To compile this program run(in the command line or terminal): <br>
 ```bash
 make
