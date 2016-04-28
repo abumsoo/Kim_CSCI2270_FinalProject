@@ -12,11 +12,10 @@ website with the websiteParser.py script that is included in this repository.
 
 ## How to Run
 To compile this program run(in the command line or terminal): <br>
+```bash
 make
-
-To run it: <br>
 ./ssb4.o chars.txt
-
+```
 ## Dependencies
 All you need is a c++ compiler that will compile with c++11
 
