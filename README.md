@@ -14,6 +14,8 @@ website with the websiteParser.py script that is included in this repository.
 To compile & and run this program run(in the command line or terminal): <br>
 ```bash
 make
+```
+```
 ./ssb4.o chars.txt
 ```
 ## Dependencies
