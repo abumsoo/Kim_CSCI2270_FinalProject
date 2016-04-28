@@ -11,10 +11,11 @@ is organized by commas. The data was taken by parsing the HTML source of a
 website with the websiteParser.py script that is included in this repository.
 
 ## How to Run
-To compile & and run this program run(in the command line or terminal): <br>
+To compile this program run(in the command line or terminal): <br>
 ```bash
 make
 ```
+To run:
 ```
 ./ssb4.o chars.txt
 ```
