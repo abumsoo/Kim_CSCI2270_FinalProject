@@ -64,6 +64,8 @@ int main(int argc, char *argv[]){
       charactersRank.printCharacterInfoRankFirst();
     }else if(userChoice==7){
       cout << "See ya!" << endl;
+    }else{
+        cout << "Please enter a valid selection" << endl;
     }
   }
 
