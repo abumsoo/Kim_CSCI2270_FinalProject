@@ -1,4 +1,4 @@
-# CSCI2270 Final Project
+# CSCI2270 Super Smash Bros. 4 Binary Search Tree
 
 ## Project Summary
 This program takes a collection of data about Super Smash Bros. for Wii U (or
